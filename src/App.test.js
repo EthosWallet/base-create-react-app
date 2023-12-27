@@ -7,6 +7,6 @@ test('renders learn react link', () => {
   expect(linkElement).toBeInTheDocument();
 });
 
-// test('fails', () => {
-//   expect(false).toBe(true);
-// });
+test('fails', () => {
+  expect(false).toBe(true);
+});
