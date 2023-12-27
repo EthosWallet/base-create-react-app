@@ -11,6 +11,6 @@ test('passes', () => {
   expect(false).toBe(false);
 });
 
-// test('fails', () => {
-//   expect(false).toBe(true);
-// });
+test('fails', () => {
+  expect(false).toBe(true);
+});
