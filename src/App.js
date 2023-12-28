@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   const unused = 'unused variable';
+  const unused2 = 'unused variable';
   return (
     <div className="App">
       <header className="App-header">
